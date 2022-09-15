@@ -1,0 +1,12 @@
+select maker,price from product inner join printer 
+on product.model = printer.model 
+where price = (select min(price) from product inner join printer 
+on product.model = printer.model)
+
+SELECT c.maker, a.priceA price
+FROM (SELECT MIN(price) priceA 
+      FROM Printer 
+      WHERE color ='y'
+      ) a INNER JOIN 
+      Printer b ON a.priceA = b.price INNER JOIN 
+      Product c ON b.model = c.model; 
