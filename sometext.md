@@ -31,3 +31,5 @@ sudo brightnessctl -d "intel_backlight" set 50%
 # change wallpaper
 feh --randomize --bg-fill Pictures/SweetheartAbbey_EN-US7440629451_1920x1080.jpg 
 
+#editor and shower
+less
