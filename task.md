@@ -2,13 +2,18 @@
 	--socialnaya carta
 ----------------------------
 --do medical certification
+		--recive 28 thursday
 --do finguer certification
+		--will take one day
 ----------------------------
+
 °Russian
-	-- ther are 2 task in the book page 90
+	--there are 2 task in the book page 90
+	--tuesday classs 1 hour
 
 °Diferentia equitations
 	--change the notebook and do some excecirces
+	--read the last class
 
 °Foirier
 	-- do the fisrt 10 problems
@@ -17,10 +22,10 @@
 	--do the fist work task
 	
 °Optimization
-	--Homework about undertand steps of the formula
+	--do integral for the next class dead line
 
 °Parallel
 	--do integral in parellel and show results
 
 °Develop
-	--wait to the topics
+	--do some web like hello with more things
