@@ -23,7 +23,7 @@
 # Wednesday
 
 *	9:00 - 10:25	
-*	10:45 - 12:10	Russia 
+*	10:45 - 12:10	Russia 324
 *	12:20 - 13:45	Applied Physical Education / Denis Shvedov
 *	13:55 - 15:20	Maching Learning
 *	15:30 - 16:55	
