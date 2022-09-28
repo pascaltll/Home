@@ -1,6 +1,6 @@
---parallel
---project
 
 --furier
 	
 --stadistic
+
+-- OD
