@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7d87147d869b7186",
+        "id": "045a6f89b27ffeb0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Noteable.md",
+            "file": "schedule.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Noteable.md",
+                "file": "schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Noteable.md",
+                "file": "schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,24 +117,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Noteable.md"
+                "file": "schedule.md"
               }
+            }
+          },
+          {
+            "id": "6765c6aa0d74d525",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7d87147d869b7186",
+  "active": "045a6f89b27ffeb0",
   "lastOpenFiles": [
-    "notes/Noteable (2).md",
     "notes/Noteable.md",
-    "2022-09-23-23-46-49.md",
+    "schedule.md",
     "126686d237733bd7d547a4ed5e27e28e.jpg",
     "f4b7a2757e46ef7bb301febb3add9ce5.jpg",
-    "schedule.md"
+    "Untitled.md",
+    "2022-09-06.md",
+    "notes/Noteable (2).md",
+    "2022-09-23-23-46-49.md"
   ]
 }
