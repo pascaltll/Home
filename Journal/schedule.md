@@ -27,8 +27,8 @@
 *	12:20 - 13:45	Applied Physical Education / Denis Shvedov
 *	13:55 - 15:20	Maching Learning
 *	15:30 - 16:55	
-*	17:05 - 18:30	
-*	18:35 - 20:00
+> *	17:05 - 18:30	Java/ Dmitry Chub/ online
+> *	18:35 - 20:00
 
 # Thursday
 
