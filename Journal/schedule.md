@@ -35,11 +35,11 @@
 # Thursday
 
 *	9:00 - 10:25	
-*	10:45 - 12:10	Russian 324
+*	10:45 - 12:10	
 >*	12:20 - 13:45	Ordinary Differential Equations/ Alexey Remizov/ 203-203а УПМ 
 >*	13:55 - 15:20	
 
-*	15:30 - 16:55	
+*	15:30 - 16:55	Russian
 *	17:05 - 18:30	
 *	18:35 - 20:00	
 
