@@ -129,19 +129,20 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "045a6f89b27ffeb0",
+  "active": "6765c6aa0d74d525",
   "lastOpenFiles": [
-    "notes/Noteable.md",
+    "software.md.md",
     "schedule.md",
+    "notes/Noteable.md",
     "126686d237733bd7d547a4ed5e27e28e.jpg",
     "f4b7a2757e46ef7bb301febb3add9ce5.jpg",
-    "Untitled.md",
     "2022-09-06.md",
     "notes/Noteable (2).md",
     "2022-09-23-23-46-49.md"
