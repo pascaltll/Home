@@ -1,4 +1,4 @@
-# Monday
+	Monday
 
 *	9:00 - 10:25	
 *	10:45 - 12:10	
@@ -14,7 +14,7 @@
 *	9:00 - 10:25	   
 *	10:45 - 12:10	
 *	12:20 - 13:45	    Fourier Analysis/ Aleksey Lukashov/ 521 ГК
-*	13:55 - 15:20      RUSSIAN  	
+*	13:55 - 15:20       	
 >*	15:30 - 16:55	    Parallel and Disrtibuted Computing I/ Alexey Doludenko/ 204 УПМ
 >*	17:05 - 18:30
 
