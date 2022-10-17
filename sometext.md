@@ -1,3 +1,5 @@
+
+
 /sys/class/backlight/intel_backlight
 
 /opt/clion-2021.3.4
