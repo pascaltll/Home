@@ -1,7 +1,7 @@
 	Monday
 
-*	9:00 - 10:25	
-*	10:45 - 12:10	
+>*	9:00 - 10:25	Parallel and Disrtibuted Computing I/ Alexey Doludenko/ 419 ГК
+>*	10:45 - 12:10	
 *	12:20 - 13:45	
 *	13:55 - 15:20	
 >*    15:30 - 16:55	Workshop on Software Development/ Yulia Ivanova/ Физтех. Цифра № 5.16
@@ -15,8 +15,8 @@
 *	10:45 - 12:10	
 *	12:20 - 13:45	    Fourier Analysis/ Aleksey Lukashov/ 521 ГК
 *	13:55 - 15:20       	
->*	15:30 - 16:55	    Parallel and Disrtibuted Computing I/ Alexey Doludenko/ 204 УПМ
->*	17:05 - 18:30
+*	15:30 - 16:55	 
+*  17:05 - 18:30
 
 *	18:35 - 20:00	
 

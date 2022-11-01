@@ -57,3 +57,9 @@ mode "$mode_redshift" {
     bindsym Return mode "default"
     bindsym Escape mode "default"
 }
+
+jupyter notebook \  
+  --NotebookApp.allow_origin='https://colab.research.google.com' \
+  --port=8888 \
+  --NotebookApp.port_retries=0
+
